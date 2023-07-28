@@ -39,6 +39,7 @@
     <Compile Include="Portfolio\wsgi.py" />
     <Compile Include="works\admin.py" />
     <Compile Include="works\apps.py" />
+    <Compile Include="works\migrations\0001_initial.py" />
     <Compile Include="works\migrations\__init__.py" />
     <Compile Include="works\models.py" />
     <Compile Include="works\tests.py" />
