@@ -364,3 +364,4 @@ FodyWeavers.xsd
 /env/Lib/site-packages/psycopg2
 /env/Lib/site-packages/psycopg2-2.9.5.dist-info
 /env
+/images
